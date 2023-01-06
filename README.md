@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as Front-End Devolper
 - 👨‍💻 I have Worked on projects based on Angular, ReactJs, Python Django ...
 - 🌱 I’m currently learning VueJs, NuxtJs.
-- 🤔 I’m looking for help with Getting Job
+<!-- - 🤔 I’m looking for help with Getting Job -->
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 💬 Ask me about ... -->
